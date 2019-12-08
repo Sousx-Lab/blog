@@ -1,2 +1,2 @@
-# Blog
-My first Blog php Poo ;)
+# My fisr App
+My first Blog whit PHP7 POO 😉😀
