@@ -1,2 +1,3 @@
-# My fisr App
-My first Blog whit PHP7 POO 😉😀
+A simple blog whith Category/Post 
+
+Require Mysql/php 7.2
