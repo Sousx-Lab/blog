@@ -1,3 +1,3 @@
-A simple blog whith Category/Post 
+A simple blog with Categories/Posts 
 
 Require Mysql/php 7.2
